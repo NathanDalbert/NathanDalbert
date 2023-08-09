@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**NathanDalbert/NathanDalbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Nathan Dalbert 😜
 
-Here are some ideas to get you started:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)](https://facebook.com/NathanDalbert)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://Linkedin.com/NathanDalbert)
+
+[![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://instragarm.com/NathanDalbert)
+
+
+![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanDalbert&show_icons=true&theme=dark)
