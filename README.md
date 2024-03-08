@@ -13,5 +13,5 @@
 
 
 
-![snake gif](https://github.com/nathandalbert/nathandalbert/blob/output/github-contribution-grid-snake.svg)
+
 
