@@ -1,17 +1,47 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=90&section=header"/>
 
-### Olá! Eu sou Nathan Dalbert 😜
+<h2 align="center">🎓💻 Estudante universitário de Engenharia de Software</h2>
+<h3 align="center">🌍 Localizado no coração do Brasil 🇧🇷</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/nathan.dalbert.9867)
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/nathan-dalbert-48b289193/)
+<p align="center"><em>"Transformando ideias em código, e código em soluções que impactam o mundo."</em></p>
 
-[![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/nathandalbert/)
+---
+<p align="center">
+  <a href="mailto:nathandalbert@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-dalbert-48b289193/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/nathandalbert/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+</p>
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanDalbert&show_icons=true&theme=dark&bg_color=000000"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDalbert&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
+</div>
 
+<div align="center">
+ <h1>Tecnologias: </h1>
+</div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,git,react,nodejs,postgresql" />
+  </a>
+</p>  
 
-
-
+<div align="center">
+ <h1>IDEs: </h1>
+</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
+</p>
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=90&section=footer"/>
