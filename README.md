@@ -1,9 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=90&section=header"/>
 
-<h2 align="center" style="color:#ff4d4d">🎓💻 Estudante universitário de Engenharia de Software</h2>
-<h3 align="center" style="color:#FFA500">🌍 Localizado no coração do Brasil 🇧🇷</h3>
+<h2 align="center">🎓💻 Estudante Universitário de Engenharia de Software</h2>
+<h3 align="center">🌍 Localizado no coração do Brasil 🇧🇷</h3>
 
-<p align="center"><em style="color:#800080">"Transformando ideias em código, e código em soluções que impactam o mundo."</em></p>
+<p align="center">
+  <em>"Transformando ideias em código, e código em soluções que impactam o mundo."</em>
+</p>
 
 <p align="center">
   <a href="mailto:nathandalbert@gmail.com">
@@ -37,7 +39,7 @@
 ---
 
 <div align="center">
-  <h1 style="color:#1E90FF">🛠️ Tecnologias:</h1>
+  <h2>🛠️ Tecnologias</h2>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
@@ -49,7 +51,7 @@
 ---
 
 <div align="center">
-  <h1 style="color:#FFA500">🧠 IDEs:</h1>
+  <h2>🧠 IDEs</h2>
 </div>
 
 <p align="center">
@@ -57,6 +59,12 @@
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
 </p>
+
+---
+
+### 📊 Estatísticas do WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
