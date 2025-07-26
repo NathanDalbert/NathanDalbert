@@ -31,11 +31,7 @@
 ---
 
 <div align="center">
-  <!-- Gráfico de atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanDalbert&bg_color=0d1117&color=ffffff&line=ff4d4d&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade"/>
-  
-  <!-- Gráfico Isométrico -->
-  <img src="https://github-contributions-chart.vercel.app/api?username=NathanDalbert&color=ff4d4d&no-bg=true" alt="Gráfico Isométrico"/>
 </div>
 
 ---
@@ -65,7 +61,6 @@
 ---
 
 <div align="center">
-  <!-- Animação da Cobrinha -->
   <img src="https://raw.githubusercontent.com/NathanDalbert/NathanDalbert/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
