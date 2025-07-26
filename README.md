@@ -31,8 +31,20 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=NathanDalbert&theme=dark&hide_border=true&locale=pt_BR&background=00000000" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NathanDalbert&theme=dark&hide_border=true&locale=pt_BR&background=00000000" alt="GitHub Streak"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanDalbert&bg_color=0d1117&color=ffffff&line=ff4d4d&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividade"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/sallar/github-contributions-chart">
+    <img src="https://github-contributions-chart.vercel.app/api?username=NathanDalbert&color=ff4d4d" alt="Gráfico Isométrico"/>
   </a>
 </div>
 
@@ -61,6 +73,12 @@
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/NathanDalbert/NathanDalbert/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 ---
 
