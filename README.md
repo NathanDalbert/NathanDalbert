@@ -12,48 +12,54 @@
 ---
 
 <p align="center">
-  <a href="mailto:nathandalbert@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/nathan-dalbert-48b289193/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/nathandalbert/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
+  <a href="mailto:nathandalbert@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-dalbert-48b289193/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/nathandalbert/">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanDalbert&show_icons=true&theme=dark&bg_color=000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDalbert&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanDalbert&show_icons=true&theme=dark&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDalbert&layout=compact&show_icons=true&theme=dark&bg_color=000000"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NathanDalbert&theme=dark&hide_border=true&locale=pt_BR&background=00000000" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
- <h1 style="color:#1E90FF">🛠️ Tecnologias:</h1>
+ <h1 style="color:#1E90FF">🛠️ Tecnologias:</h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,git,react,nodejs,postgresql,spring,sqlite,flutter,fastapi,maven,mysql,vite" />
-  </a>
-</p>  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,git,react,nodejs,postgresql,spring,sqlite,flutter,fastapi,maven,mysql,vite" />
+  </a>
+</p>  
 
 ---
 
 <div align="center">
- <h1 style="color:#FFA500">🧠 IDEs:</h1>
+ <h1 style="color:#FFA500">🧠 IDEs:</h1>
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
 </p>
 
 ---
