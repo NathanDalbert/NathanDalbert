@@ -62,16 +62,6 @@
 
 ---
 
-### 📊 Estatísticas do WakaTime
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NathanDalbert/NathanDalbert/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
