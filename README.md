@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <!-- Estatísticas (com commits privados e todos os commits) -->
+  <!-- Estatísticas do GitHub -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanDalbert&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=000000" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDalbert&layout=compact&theme=dark&bg_color=000000" />
 </div>
@@ -67,7 +67,17 @@
 
 ---
 
+<div align="center">
+  <h2>📊 Contribuições GitHub</h2>
+  <p>
+    Confira minhas <a href="https://github.com/NathanDalbert?tab=overview&from=2025-01-01&to=2025-12-31" target="_blank">contribuições públicas</a> mais recentes!
+  </p>
+</div>
+
+---
+
 ### 🐍 Minha Cobra de Contribuições
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/NathanDalbert/NathanDalbert/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
