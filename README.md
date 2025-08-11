@@ -73,3 +73,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=90&section=footer"/>
+.
